@@ -1,0 +1,373 @@
+{
+    "game": {
+        "single": [
+            {
+                "category": "THE STARS",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Denebola, a star in the tail of this constellation, is Arabic for \"the lion's tail\"",
+                        "solution": "What is Leo"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Arcturus is known as the \"bear watcher\" because it follows this constellation around the north celestial pole",
+                        "solution": "What is Ursa Major"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Add an \"A\" to the beginning of this star (double the \"P\") & you get singing without instrumental accompaniment",
+                        "solution": "What is Capella (a cappella accepted)"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Although now fainter than Pollux, this star is designated the alpha star in Gemini",
+                        "solution": "What is Castor"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "This star whose name sounds like a Michael Keaton character became the first whose surface was directly imaged",
+                        "solution": "What is Betelgeuse"
+                    }
+                ]
+            },
+            {
+                "category": "PLANETS ON EARTH",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Drive through the village of Mercury in the Rhone-Alpes region of this country",
+                        "solution": "What is France"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "There is life in Mars, 30 miles from the confluence of the Monongahela & Allegheny Rivers in this state",
+                        "solution": "What is Pennsylvania"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "If you're driving through Jupiter, catch a show at the maltz Jupiter theatre in this state",
+                        "solution": "What is Florida"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "The seas of Neptune are long gone, replaced by the prairies near its captital, Regina, in this Canadian province",
+                        "solution": "What is Saskatchewan"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Though not large enough to be an official planet, Pluto resides on this largest Philippine Island",
+                        "solution": "What is Luzon"
+                    }
+                ]
+            },
+            {
+                "category": "FIRST NAME'S THE SAME",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Vega, Somers, Pleshette",
+                        "solution": "What is Suzanne"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Brown, Tarkanian, Lewis",
+                        "solution": "What is Jerry"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "Munster, Pons, Tomlin",
+                        "solution": "What is Lily"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Benson, Blanda, Bush",
+                        "solution": "What is George"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Hollander, Bobek, Richie",
+                        "solution": "What is Nicole"
+                    }
+                ]
+            },
+            {
+                "category": "GOVERNMENT & POLITICS",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "It's a view on a case written by a minority of the Supreme Court justices",
+                        "solution": "What is a dissent"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "All the people representatives represent; many House members websites have a section of services for them",
+                        "solution": "What is constituents"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "It was created in 1979 but traces its beginnings to 1803, when Congress allocated aid to fire-stricken Portsmouth, N.H.",
+                        "solution": "What is FEMA"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "It's congressional action that spends our money for an authorized purpose; there's a committee for it",
+                        "solution": "What is appropriations"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "(Hi. I'm John McCain.) The bipartisan campaign reform act is named for me & this Wisconsin Senator",
+                        "solution": "What is Russ Feingold"
+                    }
+                ]
+            },
+            {
+                "category": "THE KING",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Walter Winchell & George M. Cohan have each been called the \"King of\" this thoroughfare",
+                        "solution": "What is Broadway"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "Though born in November 1854, he was known as the \"March King\"",
+                        "solution": "What is Sousa"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "In the 1980s he was known as the \"Junk Bond King\"",
+                        "solution": "What is Michael Milken"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "She—yes, she—was known as \"King of the Court\"",
+                        "solution": "What is Billie Jean King"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "California lawyer Melvin Belli was famous as the \"King of\" these",
+                        "solution": "What is torts"
+                    }
+                ]
+            },
+            {
+                "category": "SOUNDS LIKE A PRESCRIPTION DRUG",
+                "clues": [
+                    {
+                        "value": 200,
+                        "clue": "Specific term for a supplement to your last will & testament",
+                        "solution": "What is a codicil"
+                    },
+                    {
+                        "value": 400,
+                        "clue": "A word to designate the 3 low countries, or their economic pact",
+                        "solution": "What is Benelux"
+                    },
+                    {
+                        "value": 600,
+                        "clue": "A 7-letter term for an improvised encampment",
+                        "solution": "What is a bivouac"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Apollo's sister, she was Diana's Greek counterpart",
+                        "solution": "What is Artemis"
+                    },
+                    {
+                        "value": 1000,
+                        "clue": "Orangutans live on this, the largest island that's entirely part of Indonesia",
+                        "solution": "What is Sumatra"
+                    }
+                ]
+            }
+        ],
+        "double": [
+            {
+                "category": "FIRST LADIES",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "Her April 14th, 1964 diary entry revealed she asked King Hussein of Jordan for his autograph at a state dinner",
+                        "solution": "What is Lady Bird Johnson"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "First name shared by a Roosevelt & a Wilson",
+                        "solution": "What is Edith"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "She was 32 when she started acting as Jefferson's hostess",
+                        "solution": "What is Dolley Madison"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "Pink, a favorite color of hers, became popular nationwide when she lived in the White House",
+                        "solution": "What is Mamie Eisenhower"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "Known under this name as First Lady, she was born Elizabeth Wallace",
+                        "solution": "What is Bess Truman"
+                    }
+                ]
+            },
+            {
+                "category": "ROBERT DE NIRO MOVIES",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "\"Come on, hit me. Harder! Harder!\"",
+                        "solution": "What is Raging Bull"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "\"Someday a real rain will come and wash all this scum off the streets\"",
+                        "solution": "What is Taxi Driver"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "\"I was gonna whack you, but I was... real conflicted about it\"",
+                        "solution": "What is Analyze This"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "\"Better to be king for a night than a schmuck for a lifetime\"",
+                        "solution": "What is The King of Comedy"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "\"Counselor! Come out, come out, wherever you are!!\"",
+                        "solution": "What is Cape Fear"
+                    }
+                ]
+            },
+            {
+                "category": "LITERARY SHORTS",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "Shooting an albatross causes bad luck for a ship's crew",
+                        "solution": "What is The Rime of the Ancient Mariner"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "A 12-year-old nymphet torments a grown man",
+                        "solution": "What is Lolita"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "A psychologist tries to figure out why a young man has blinded 6 horses",
+                        "solution": "What is Equus"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "\"Admirable\" butler becomes the leader of a shipwrecked group",
+                        "solution": "What is The Admirable Crichton"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "Swift advocates the eating of poor children as a way to combat poverty",
+                        "solution": "What is A Modest Proposal"
+                    }
+                ]
+            },
+            {
+                "category": "TAKE THE KIDS!",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "If the kids can stomach it, watch Tasmanian devils being fed in Tasmanian Deveil Park at Taranna in this country",
+                        "solution": "What is Australia"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Take the kids to Drumnadrochit to see the exhibition devoted to this beast, then go outside & search for it yourself",
+                        "solution": "What is the Loch Ness monster"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "Kids love creepy stuff, so take them to see the bog mummies at the Silkeborg Museum in this country",
+                        "solution": "What is Denmark"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "The kids will be amazed that Tchantches, a puppet who's the symbol of Liege in this country, has his own museum",
+                        "solution": "What is Belgium"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "A train ride & a hall of mirrors tempt the tykes at Jardin d'Acclimation in this Parisian park nicknamed Le Bois",
+                        "solution": "What is the Bois de Boulogne"
+                    }
+                ]
+            },
+            {
+                "category": "IF AT FIRST YOU DON'T SECEDE...",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "It was the first U.S. state to secede, leading to the Civil War",
+                        "solution": "What is South Carolina"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "It held referendums in 1980 & 1995 to decide whether to secede from Canada",
+                        "solution": "What is Quebec"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "In 1965 this island city-state peacefully seceded from Malaysia",
+                        "solution": "What is Singapore"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "This country in the Western Hemisphere didn't exist until 1903 when it seceded from its larger neighbor",
+                        "solution": "What is Panama"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "This nation has fought several wars over territory with Ethiopia since seceding from it in 1993",
+                        "solution": "What is Eritrea"
+                    }
+                ]
+            },
+            {
+                "category": "TRY \"TRI\" AGAIN",
+                "clues": [
+                    {
+                        "value": 400,
+                        "clue": "It straightens the arm at the elbow",
+                        "solution": "What is the triceps"
+                    },
+                    {
+                        "value": 800,
+                        "clue": "Swimming, cycling, & running all in one event",
+                        "solution": "What is a triathlon"
+                    },
+                    {
+                        "value": 1200,
+                        "clue": "The period that lasted from about 245 million to 208 million years ago",
+                        "solution": "What is Triassic"
+                    },
+                    {
+                        "value": 1600,
+                        "clue": "From the Latin for \"platform for magistrates\", it's a court of justice",
+                        "solution": "What is a tribunal"
+                    },
+                    {
+                        "value": 2000,
+                        "clue": "A group of 3 men collectively responsible for the administration of ancient Rome",
+                        "solution": "What is a triumvirate"
+                    }
+                ]
+            }
+        ],
+        "final": {
+            "category": "TECHNOLOGY",
+            "clue": "In 1913 this alloy was invented by Harry Brearley of Sheffield, England, a city known for its cutlery since before 1400",
+            "solution": "What is stainless steel"
+        }
+    }
+}
