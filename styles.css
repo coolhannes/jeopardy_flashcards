@@ -2,6 +2,7 @@
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
+    font-family: Arial, sans-serif; /* Specify the default font */
 }
 
 #flashcard {
@@ -9,6 +10,7 @@
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
+    height: 175px; /* Set the height to auto or a fixed value */
 }
 
 #next-btn {
@@ -17,4 +19,12 @@
     color: #fff;
     border: none;
     cursor: pointer;
+}
+
+#flashcard p {
+    margin-bottom: 10px;
+}
+
+#next-btn {
+    margin-top: 10px;
 }

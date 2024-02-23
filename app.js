@@ -18,54 +18,33 @@ nextButton.addEventListener('click', () => {
 
 async function fetchRandomClue() {
     try {
-        const response = await fetch('json_files/files_list.json');
+        const response = await fetch('json_files/combined_questions_1983_2023.json');
         if (!response.ok) {
             throw new Error('Failed to fetch JSON file');
         }
-        const fileList = await response.json();
-        const randomIndex = Math.floor(Math.random() * fileList.length);
-        const randomJSONFile = fileList[randomIndex];
-        const jsonDataResponse = await fetch(randomJSONFile);
-        if (!jsonDataResponse.ok) {
-            throw new Error('Failed to fetch JSON data');
-        }
-        const jsonData = await jsonDataResponse.json();
-        const game = jsonData.game;
-        const phases = Object.keys(game);
-        const randomPhaseKey = phases[Math.floor(Math.random() * phases.length)];
-        const randomPhase = game[randomPhaseKey];
+        const data = await response.json();
+        
+        // Extract keys (dates) from the JSON object
+        const dates = Object.keys(data);
+        
+        // Randomly select a date
+        const randomDate = dates[Math.floor(Math.random() * dates.length)];
+        
+        // Get the array of clues for the randomly selected date
+        const clues = data[randomDate];
+        
+        // Randomly select a clue from the array
+        const randomClue = clues[Math.floor(Math.random() * clues.length)];
 
-        if (randomPhase.category) {
+        currentClue = {
+            category: randomClue.category,
+            clue: randomClue.clue,
+            solution: randomClue.solution
+        };
 
-            currentClue = {
-                category: randomPhase.category,
-                clue: randomPhase.clue,
-                solution: randomPhase.solution
-            };
+        console.log('currentClue:', currentClue); // Log the current clue object
 
-        } else {
-
-            const randomCategoryIndex = Math.floor(Math.random() * randomPhase.length);
-            
-            const randomCategory = randomPhase[randomCategoryIndex];
-            console.log('randomCategory:', randomCategory);
-            
-            const randomClues = randomCategory.clues;
-            console.log('randomClues:', randomClues);
-            
-            const randomClueIndex = Math.floor(Math.random() * randomClues.length);
-            const randomClue = randomClues[randomClueIndex];
-            
-            console.log('randomClue:', randomClue); // Log the random clue object
-
-            currentClue = {
-                category: randomCategory.category,
-                clue: randomClue.clue,
-                solution: randomClue.solution
-            };
-        }
-
-        showClue();
+        showClue(currentClue);
     } catch (error) {
         console.error('Error fetching JSON:', error);
     }
@@ -92,4 +71,3 @@ async function initialize() {
 }
 
 initialize();
-
