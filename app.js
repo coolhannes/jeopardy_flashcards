@@ -18,7 +18,7 @@ nextButton.addEventListener('click', () => {
 
 async function fetchRandomClue() {
     try {
-        const response = await fetch('json_files/combined_questions_1983_2023.json');
+        const response = await fetch('json_files/combined_questions.json');
         if (!response.ok) {
             throw new Error('Failed to fetch JSON file');
         }
@@ -42,7 +42,7 @@ async function fetchRandomClue() {
             solution: randomClue.solution
         };
 
-        console.log('currentClue:', currentClue); // Log the current clue object
+        //console.log('currentClue:', currentClue); // Log the current clue object
 
         showClue(currentClue);
     } catch (error) {
